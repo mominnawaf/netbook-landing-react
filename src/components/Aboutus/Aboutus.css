@@ -1,0 +1,93 @@
+.about-us-container {
+    display: flex;
+    margin-top: 2%;
+}
+
+.about-us-left {
+    width: 50%;
+}
+
+.about-us-right {
+    display: flex ;
+    margin-left: 15%;
+    width: 50%;
+}
+
+.about-us-wrapper {
+    width: 406px;
+    height: 346px;
+    top: 96.53px;
+    margin-left: 135px;
+}
+
+.whats-notebook {
+    width: 142px;
+    height: 18px;
+
+    font-family: Inter;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 18px;
+    /* identical to box height, or 100% */
+    color: #217BF4;
+}
+
+.why-join {
+    width: 406px;
+    height: 96px;
+    left: 135px;
+
+    font-family: Inter;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 36px;
+    line-height: 48px;
+    /* or 133% */
+    color: #0A093D;
+}
+
+.why-join-more {
+    width: 406px;
+    height: 84px;
+
+    font-family: Inter;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 28px;
+    /* or 175% */
+
+
+    color: #656464;
+}
+
+.list-item {
+    margin: 10px;
+    width: 50px;
+    height: 18px;
+    font-family: Inter;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 18px;
+    /* identical to box height, or 100% */
+
+
+    color: #171648;
+}
+.two-images{
+    display: flex;
+    flex-direction: column;
+    margin: 20px;
+}
+.video-img{
+    margin-top: 10%;
+    width: 270px;
+height: 368px;
+}
+.childimg{
+    width: 265px;
+height: 238px;
+margin: 10px;
+}

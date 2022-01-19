@@ -1,5 +1,6 @@
 .base-contianer {
     display: flex;
+    height: 750px;
 }
 
 .base-contianer .left-header {

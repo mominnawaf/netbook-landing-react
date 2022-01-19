@@ -13,7 +13,7 @@ export default class Header extends Component {
     }
     render() {
         return (
-            <AppBar color='transparent' position='sticky' className="header" >
+            <AppBar color='transparent' position='static' className="header" >
                <Container maxWidth='xl'>
                    <Toolbar>
                        <Typography>
@@ -26,7 +26,7 @@ export default class Header extends Component {
                        </div>
                        <div className='right-header'>
                        <Input placeholder='Search' className="search" startAdornment={<InputAdornment position='start'><SearchOutlined /></InputAdornment>} />
-                       <Button variant='contained' className='login'>Login</Button>
+                       <Button variant='contained' className='login'><p className='login-p'>Login</p></Button>
                        </div>
                     </Toolbar>
                </Container>
