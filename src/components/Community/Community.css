@@ -1,0 +1,118 @@
+.community-container {
+    height: 976px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background: linear-gradient(0deg, rgba(241, 246, 253, 0) 1.63%, #F1F6FD 20.5%, #F1F6FD 58.57%, #FFFFFF 100%);
+}
+
+.community-text-container {
+    width: 441px;
+    height: 138px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.our-community {
+    width: 135px;
+    height: 18px;
+    font-family: Inter;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 18px;
+    /* identical to box height, or 100% */
+
+    text-align: center;
+    color: #217BF4;
+}
+
+.main-feature {
+    width: 441px;
+    height: 36px;
+
+    font-family: Inter;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 36px;
+    line-height: 36px;
+    /* identical to box height, or 100% */
+
+    text-align: center;
+
+    color: #0A093D;
+}
+
+.community-text {
+    width: 421px;
+    height: 56px;
+    font-family: Inter;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 28px;
+    /* or 175% */
+    color: #656464;
+}
+.community-text-main {
+    width: 421px;
+    height: 56px;
+    font-family: Inter;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 28px;
+    text-align: center;
+    /* or 175% */
+    color: #656464;
+}
+.card-container{
+    display: flex;
+    width: 522px;
+    height: 182px;
+    background: #FFFFFF;
+    box-shadow: 14px 22px 52px -12px rgba(127, 127, 127, 0.13) !important;
+    border-radius: 14px !important;
+    margin: 25px;
+}
+.card-icon{
+    align-self: center;
+    width: 66px;
+height: 66px;
+padding: 5px;
+margin: 10px;
+}
+.card-wrapper{
+    display: flex;
+    align-items: center;
+}
+.member-p{
+    width: 209px;
+height: 26px;
+margin-top: 0px;
+    margin-bottom: 0px;
+font-family: Inter;
+font-style: normal;
+font-weight: 600;
+font-size: 24px;
+line-height: 26px;
+/* identical to box height, or 108% */
+
+
+color: #2F2C4A;
+}
+.second-div{
+    display: flex;
+    flex-direction: column;
+}
+.card-wrapper-main{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.two-card-holder{
+    display: flex;
+}
