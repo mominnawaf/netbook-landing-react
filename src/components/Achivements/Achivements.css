@@ -11,6 +11,8 @@
     left: 135px;
     top: 75px;
     margin: 25px;
+    box-shadow: 0px 26px 49px rgba(146, 165, 184, 0.14) !important;
+    border-radius: 14px !important;
 }
 
 .rating-text {
@@ -73,21 +75,23 @@
     color: #217BF4 !important;
 
 }
-.git-text{
+
+.git-text {
     width: 176px;
-height: 18px;
-margin-bottom: 25px;
+    height: 18px;
+    margin-bottom: 25px;
 
-font-family: Inter;
-font-style: normal;
-font-weight: normal;
-font-size: 16px;
-line-height: 18px;
-/* identical to box height, or 112% */
+    font-family: Inter;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 18px;
+    /* identical to box height, or 112% */
 
 
-color: #5D5B70;
+    color: #5D5B70;
 }
+
 .second-btn {
     text-transform: none !important;
     height: 16px;
@@ -101,35 +105,38 @@ color: #5D5B70;
     color: #5D5B70 !important;
 
 }
-.achivement-text{
-width: 149px;
-height: 18px;
 
-font-family: Inter;
-font-style: normal;
-font-weight: 500;
-font-size: 18px;
-line-height: 18px;
-/* identical to box height, or 100% */
+.achivement-text {
+    width: 149px;
+    height: 18px;
+
+    font-family: Inter;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 18px;
+    /* identical to box height, or 100% */
 
 
-color: #217BF4;
+    color: #217BF4;
 
 }
-.digital-text{
+
+.digital-text {
     width: 381px;
-height: 96px;
+    height: 96px;
 
-font-family: Inter;
-font-style: normal;
-font-weight: bold;
-font-size: 36px;
-line-height: 48px;
-/* or 133% */
+    font-family: Inter;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 36px;
+    line-height: 48px;
+    /* or 133% */
 
 
-color: #0A093D;
+    color: #0A093D;
 }
+
 .last-card {
     width: 380px;
     height: 340px;
@@ -137,40 +144,43 @@ color: #0A093D;
     top: 75px;
     margin: 25px;
 }
-.last-btn{
-width: 192px;
-height: 58px;
-background: #217BF4 !important;
-box-shadow: 0px 10px 22px rgba(33, 123, 244, 0.26) !important;
-border-radius: 14px !important;
+
+.last-btn {
+    width: 192px;
+    height: 58px;
+    background: #217BF4 !important;
+    box-shadow: 0px 10px 22px rgba(33, 123, 244, 0.26) !important;
+    border-radius: 14px !important;
 }
+
 .next-text-2 {
-width: 360px;
-height: 84px;
+    width: 360px;
+    height: 84px;
 
-font-family: Inter;
-font-style: normal;
-font-weight: normal;
-font-size: 16px;
-line-height: 28px;
-/* or 175% */
-color: #0A093D;
+    font-family: Inter;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 28px;
+    /* or 175% */
+    color: #0A093D;
 
 
-color: #656464;
+    color: #656464;
 }
-.dicovertext{
-height: 14px;
-text-transform: none;
-font-family: Inter;
-font-style: normal;
-font-weight: 500;
-font-size: 14px;
-line-height: 14px;
-/* identical to box height, or 100% */
 
-text-align: center;
-letter-spacing: -0.02em;
+.dicovertext {
+    height: 14px;
+    text-transform: none;
+    font-family: Inter;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 14px;
+    /* identical to box height, or 100% */
 
-color: #FFFFFF;
+    text-align: center;
+    letter-spacing: -0.02em;
+
+    color: #FFFFFF;
 }
