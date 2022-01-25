@@ -4,6 +4,7 @@ import Base from './components/Base/Base';
 import Aboutus from './components/Aboutus/Aboutus';
 import Achivements from './components/Achivements/Achivements';
 import Community from './components/Community/Community';
+import Footer from './components/Footer/Footer';
 
 function App() {
   return (
@@ -13,6 +14,7 @@ function App() {
       <Aboutus />
       <Achivements />
       <Community/>
+      <Footer />
     </div>
   );
 }
